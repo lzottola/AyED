@@ -1,7 +1,7 @@
 # AyED
 Repositorio principal para Algoritmos y Estructuras de Datos K1041
 
-**Nombre y Apellido**: Luca Patricio Zottola
+**Nombre y Apellido**: Luca Patricio Zottola  
 **Comisión**: K1041
 
 ```
